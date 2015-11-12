@@ -1,0 +1,505 @@
+{"songs":
+		{"1999":[
+			{
+				"number": "1",
+				"title": "Hold On (Wilson Phillips song)",
+				"artist": "Wilson Phillips"
+			},
+			{
+				"number": "2",
+				"title": "It Must Have Been Love",
+				"artist": "Roxette"
+			},
+			{
+				"number": "3",
+				"title": "Nothing Compares 2 U",
+				"artist": "Sinéad O'Connor"
+			},
+			{
+				"number": "4",
+				"title": "Poison (Bell Biv DeVoe song)",
+				"artist": "Bell Biv DeVoe"
+			},
+			{
+				"number": "5",
+				"title": "Vogue (Madonna song)",
+				"artist": "Madonna (entertainer)"
+			},
+			{
+				"number": "6",
+				"title": "Vision of Love",
+				"artist": "Mariah Carey"
+			},
+			{
+				"number": "7",
+				"title": "Another Day in Paradise",
+				"artist": "Phil Collins"
+			},
+			{
+				"number": "8",
+				"title": "Hold On (En Vogue song)",
+				"artist": "En Vogue"
+			},
+			{
+				"number": "9",
+				"title": "Cradle of Love (Billy Idol song)",
+				"artist": "Billy Idol"
+			},
+			{
+				"number": "10",
+				"title": "Blaze of Glory (Jon Bon Jovi song)",
+				"artist": "Jon Bon Jovi"
+			},
+			{
+				"number": "11",
+				"title": "Do Me!",
+				"artist": "Bell Biv DeVoe"
+			},
+			{
+				"number": "12",
+				"title": "How Am I Supposed to Live Without You",
+				"artist": "Michael Bolton"
+			},
+			{
+				"number": "13",
+				"title": "Pump Up the Jam",
+				"artist": "Technotronic"
+			},
+			{
+				"number": "14",
+				"title": "Opposites Attract",
+				"artist": "Paula Abdul",
+				"featuring": "The Wild Pair"
+			},
+			{
+				"number": "15",
+				"title": "Escapade (song)",
+				"artist": "Janet Jackson"
+			},
+			{
+				"number": "16",
+				"title": "All I Wanna Do Is Make Love to You",
+				"artist": "Heart (band)"
+			},
+			{
+				"number": "17",
+				"title": "Close to You (Maxi Priest song)",
+				"artist": "Maxi Priest"
+			},
+			{
+				"number": "18",
+				"title": "Black Velvet (song)",
+				"artist": "Alannah Myles"
+			},
+			{
+				"number": "19",
+				"title": "Release Me (Wilson Phillips song)",
+				"artist": "Wilson Phillips"
+			},
+			{
+				"number": "20",
+				"title": "Don't Know Much",
+				"artist": "Linda Ronstadt",
+				"featuring": "Aaron Neville"
+			},
+			{
+				"number": "21",
+				"title": "All Around the World (Lisa Stansfield song)",
+				"artist": "Lisa Stansfield"
+			},
+			{
+				"number": "22",
+				"title": "I Wanna Be Rich",
+				"artist": "Calloway (band)"
+			},
+			{
+				"number": "23",
+				"title": "Rub You the Right Way",
+				"artist": "Johnny Gill"
+			},
+			{
+				"number": "24",
+				"title": "She Ain't Worth It",
+				"artist": "Glenn Medeiros",
+				"featuring": "Bobby Brown"
+			},
+			{
+				"number": "25",
+				"title": "If Wishes Came True",
+				"artist": "Sweet Sensation"
+			},
+			{
+				"number": "26",
+				"title": "The Power (Snap! song)",
+				"artist": "Snap!"
+			},
+			{
+				"number": "27",
+				"title": "(Can't Live Without Your) Love and Affection",
+				"artist": "Nelson (band)"
+			},
+			{
+				"number": "28",
+				"title": "Love Will Lead You Back",
+				"artist": "Taylor Dayne"
+			},
+			{
+				"number": "29",
+				"title": "Don't Wanna Fall in Love",
+				"artist": "Jane Child"
+			},
+			{
+				"number": "30",
+				"title": "Two to Make It Right",
+				"artist": "Seduction (band)"
+			},
+			{
+				"number": "31",
+				"title": "Sending All My Love",
+				"artist": "Linear (group)"
+			},
+			{
+				"number": "32",
+				"title": "Unskinny Bop",
+				"artist": "Poison (American band)"
+			},
+			{
+				"number": "33",
+				"title": "Step by Step (New Kids on the Block song)",
+				"artist": "New Kids on the Block"
+			},
+			{
+				"number": "34",
+				"title": "Dangerous (Roxette song)",
+				"artist": "Roxette"
+			},
+			{
+				"number": "35",
+				"title": "We Didn't Start the Fire",
+				"artist": "Billy Joel"
+			},
+			{
+				"number": "36",
+				"title": "I Don't Have the Heart",
+				"artist": "James Ingram"
+			},
+			{
+				"number": "37",
+				"title": "Downtown Train",
+				"artist": "Rod Stewart"
+			},
+			{
+				"number": "38",
+				"title": "Rhythm Nation",
+				"artist": "Janet Jackson"
+			},
+			{
+				"number": "39",
+				"title": "I'll Be Your Everything (Tommy Page song)",
+				"artist": "Tommy Page"
+			},
+			{
+				"number": "40",
+				"title": "Roam",
+				"artist": "The B-52s"
+			},
+			{
+				"number": "41",
+				"title": "Everything (Jody Watley song)",
+				"artist": "Jody Watley"
+			},
+			{
+				"number": "42",
+				"title": "Back to Life (However Do You Want Me)",
+				"artist": "Soul II Soul",
+				"featuring": "Caron Wheeler"
+			},
+			{
+				"number": "43",
+				"title": "Here and Now (Luther Vandross song)",
+				"artist": "Luther Vandross"
+			},
+			{
+				"number": "44",
+				"title": "Alright (Janet Jackson song)",
+				"artist": "Janet Jackson"
+			},
+			{
+				"number": "45",
+				"title": "Ice Ice Baby",
+				"artist": "Vanilla Ice"
+			},
+			{
+				"number": "46",
+				"title": "Blame It on the Rain",
+				"artist": "Milli Vanilli"
+			},
+			{
+				"number": "47",
+				"title": "Have You Seen Her",
+				"artist": "MC Hammer"
+			},
+			{
+				"number": "48",
+				"title": "With Every Beat of My Heart",
+				"artist": "Taylor Dayne"
+			},
+			{
+				"number": "49",
+				"title": "Come Back to Me (Janet Jackson song)",
+				"artist": "Janet Jackson"
+			},
+			{
+				"number": "50",
+				"artist": "Michel'le"
+			},
+			{
+				"number": "51",
+				"title": "Praying for Time",
+				"artist": "George Michael"
+			},
+			{
+				"number": "52",
+				"title": "How Can We Be Lovers",
+				"artist": "Michael Bolton"
+			},
+			{
+				"number": "53",
+				"title": "Do You Remember? (Phil Collins song)",
+				"artist": "Phil Collins"
+			},
+			{
+				"number": "54",
+				"title": "Ready or Not (After 7 song)",
+				"artist": "After 7"
+			},
+			{
+				"number": "55",
+				"title": "U Can't Touch This",
+				"artist": "MC Hammer"
+			},
+			{
+				"number": "56",
+				"title": "I Wish It Would Rain Down",
+				"artist": "Phil Collins"
+			},
+			{
+				"number": "57",
+				"title": "Just Between You and Me (Lou Gramm song)",
+				"artist": "Lou Gramm"
+			},
+			{
+				"number": "58",
+				"title": "Something Happened on the Way to Heaven",
+				"artist": "Phil Collins"
+			},
+			{
+				"number": "59",
+				"title": "Black Cat (song)",
+				"artist": "Janet Jackson"
+			},
+			{
+				"number": "60",
+				"title": "Can't Stop (After 7 song)",
+				"artist": "After 7"
+			},
+			{
+				"number": "61",
+				"title": "Janie's Got a Gun",
+				"artist": "Aerosmith"
+			},
+			{
+				"number": "62",
+				"title": "The Humpty Dance",
+				"artist": "Digital Underground"
+			},
+			{
+				"number": "63",
+				"title": "I'll Be Your Shelter",
+				"artist": "Taylor Dayne"
+			},
+			{
+				"number": "64",
+				"title": "Free Fallin'",
+				"artist": "Tom Petty"
+			},
+			{
+				"number": "65",
+				"title": "Giving You the Benefit",
+				"artist": "Perri \"Pebbles\" Reid"
+			},
+			{
+				"number": "66",
+				"title": "Enjoy the Silence",
+				"artist": "Depeche Mode"
+			},
+			{
+				"number": "67",
+				"title": "Love Song (Tesla song)",
+				"artist": "Tesla (band)"
+			},
+			{
+				"number": "68",
+				"title": "Price of Love (Bad English song)",
+				"artist": "Bad English"
+			},
+			{
+				"number": "69",
+				"artist": "Tyler Collins"
+			},
+			{
+				"number": "70",
+				"title": "King of Wishful Thinking",
+				"artist": "Go West (band)"
+			},
+			{
+				"number": "71",
+				"title": "What Kind of Man Would I Be?",
+				"artist": "Chicago (band)"
+			},
+			{
+				"number": "72",
+				"title": "I Remember You (Skid Row song)",
+				"artist": "Skid Row (American band)"
+			},
+			{
+				"number": "73",
+				"title": "Get Up! (Before the Night Is Over)",
+				"artist": "Technotronic",
+				"featuring": "Ya Kid K"
+			},
+			{
+				"number": "74",
+				"title": "Here We Are (Gloria Estefan song)",
+				"artist": "Gloria Estefan"
+			},
+			{
+				"number": "75",
+				"title": "Epic (Faith No More song)",
+				"artist": "Faith No More"
+			},
+			{
+				"number": "76",
+				"title": "Love Takes Time",
+				"artist": "Mariah Carey"
+			},
+			{
+				"number": "77",
+				"title": "Just Like Jesse James",
+				"artist": "Cher"
+			},
+			{
+				"number": "78",
+				"title": "Love Shack",
+				"artist": "The B-52s"
+			},
+			{
+				"number": "79",
+				"title": "All or Nothing (Milli Vanilli song)",
+				"artist": "Milli Vanilli"
+			},
+			{
+				"number": "80",
+				"artist": "Dino (singer)"
+			},
+			{
+				"number": "81",
+				"title": "Everybody Everybody (song)",
+				"artist": "Black Box (band)"
+			},
+			{
+				"number": "82",
+				"title": "I Go to Extremes",
+				"artist": "Billy Joel"
+			},
+			{
+				"number": "83",
+				"title": "Whip Appeal",
+				"artist": "Babyface (musician)"
+			},
+			{
+				"number": "84",
+				"title": "Oh Girl",
+				"artist": "Paul Young (singer and guitarist)"
+			},
+			{
+				"number": "85",
+				"title": "C'mon and Get My Love",
+				"artist": "D Mob",
+				"featuring": "Cathy Dennis"
+			},
+			{
+				"number": "86",
+				"title": "(It's Just) The Way That You Love Me",
+				"artist": "Paula Abdul"
+			},
+			{
+				"number": "87",
+				"artist": "The Cover Girls"
+			},
+			{
+				"number": "88",
+				"title": "When I'm Back on My Feet Again",
+				"artist": "Michael Bolton"
+			},
+			{
+				"number": "89",
+				"title": "Make You Sweat",
+				"artist": "Keith Sweat"
+			},
+			{
+				"number": "90",
+				"title": "This One's for the Children",
+				"artist": "New Kids on the Block"
+			},
+			{
+				"number": "91",
+				"title": "What It Takes (Aerosmith song)",
+				"artist": "Aerosmith"
+			},
+			{
+				"number": "92",
+				"title": "Forever (Kiss song)",
+				"artist": "Kiss (band)"
+			},
+			{
+				"number": "93",
+				"title": "Jerk Out",
+				"artist": "The Time (band)"
+			},
+			{
+				"number": "94",
+				"title": "Just a Friend",
+				"artist": "Biz Markie"
+			},
+			{
+				"number": "95",
+				"artist": "A'me Lorain"
+			},
+			{
+				"number": "96",
+				"title": "Without You (Mötley Crüe song)",
+				"artist": "Mötley Crüe"
+			},
+			{
+				"number": "97",
+				"title": "Swing the Mood",
+				"artist": "Jive Bunny and the Mastermixers"
+			},
+			{
+				"number": "98",
+				"title": "Thieves in the Temple",
+				"artist": "Prince (musician)"
+			},
+			{
+				"number": "99",
+				"title": "Mentirosa (Mellow Man Ace song)",
+				"artist": "Mellow Man Ace"
+			},
+			{
+				"number": "100",
+				"artist": "Kyper"
+			}
+		]
+	}
+}
