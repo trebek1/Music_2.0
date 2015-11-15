@@ -58,6 +58,7 @@ var ref = new Firebase("https://musicapp11.firebaseio.com/");
   $scope.test = 'Music App';
   $scope.years = years.years;
   $scope.data = $firebaseObject(ref);
+  $scope.isCollapsed = true; 
 
   var syncObject = $firebaseObject(ref);
 

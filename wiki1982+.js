@@ -1,15 +1,18 @@
 var Xray = require('x-ray');
 var xray = new Xray(); 
 var fs = require('fs'); 
+var year = '2001';
 
-xray('https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1990', 'tr',
+xray('https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_' + year, 'tr',
 
 [{
+ 	year: 'strong @html',
  	number: 'tr th@html',
  	title: 'td:nth-of-type(1) a@title',
  	artist: 'td:nth-of-type(2) a@title',
  	featuring: 'td:nth-of-type(2) a:nth-of-type(2)@title',
  	and: 'td:nth-of-type(2) a:nth-of-type(3)@title'
+ 	
  	
 }]
 )(function(err, results){
@@ -23,7 +26,7 @@ xray('https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1990',
 		} 
 	});
 
-	fs.writeFile("./results.json", JSON.stringify(results, null, '\t'))
+	fs.writeFile("./results" + year + ".json", JSON.stringify(results, null, '\t'))
 
 })
 
