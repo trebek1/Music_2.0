@@ -65,10 +65,12 @@ var ref = new Firebase("https://musicapp11.firebaseio.com/");
   syncObject.$bindTo($scope, "data");
   
   $scope.addYear = function (){
-  	$scope.years.push($scope.year); 
-  	$scope.year = ""; 
-
-	}
+  	if($scope.year != ""){
+  		$scope.years.push($scope.year); 
+  		$scope.year = ""; 
+  	};
+  
+  }
 }
 
 ]);

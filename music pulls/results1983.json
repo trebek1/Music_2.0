@@ -1,0 +1,604 @@
+[
+	{
+		"year": "1983",
+		"number": "1",
+		"title": "Every Breath You Take",
+		"artist": "The Police"
+	},
+	{
+		"year": "1983",
+		"number": "2",
+		"title": "Billie Jean",
+		"artist": "Michael Jackson"
+	},
+	{
+		"year": "1983",
+		"number": "3",
+		"title": "Flashdance... What a Feeling",
+		"artist": "Irene Cara"
+	},
+	{
+		"year": "1983",
+		"number": "4",
+		"title": "Down Under (song)",
+		"artist": "Men at Work"
+	},
+	{
+		"year": "1983",
+		"number": "5",
+		"title": "Beat It",
+		"artist": "Michael Jackson"
+	},
+	{
+		"year": "1983",
+		"number": "6",
+		"title": "Total Eclipse of the Heart",
+		"artist": "Bonnie Tyler"
+	},
+	{
+		"year": "1983",
+		"number": "7",
+		"title": "Maneater (Hall & Oates song)",
+		"artist": "Hall & Oates"
+	},
+	{
+		"year": "1983",
+		"number": "8",
+		"title": "Baby, Come to Me (Patti Austin and James Ingram song)",
+		"artist": "Patti Austin",
+		"featuring": "James Ingram"
+	},
+	{
+		"year": "1983",
+		"number": "9",
+		"title": "Maniac (song)",
+		"artist": "Michael Sembello"
+	},
+	{
+		"year": "1983",
+		"number": "10",
+		"title": "Sweet Dreams (Are Made of This)",
+		"artist": "Eurythmics"
+	},
+	{
+		"year": "1983",
+		"number": "11",
+		"title": "Do You Really Want to Hurt Me",
+		"artist": "Culture Club"
+	},
+	{
+		"year": "1983",
+		"number": "12",
+		"title": "You and I (Eddie Rabbitt & Crystal Gayle song)",
+		"artist": "Eddie Rabbitt",
+		"featuring": "Crystal Gayle"
+	},
+	{
+		"year": "1983",
+		"number": "13",
+		"title": "Come On Eileen",
+		"artist": "Dexys Midnight Runners"
+	},
+	{
+		"year": "1983",
+		"number": "14",
+		"title": "Shame on the Moon",
+		"artist": "Bob Seger & The Silver Bullet Band"
+	},
+	{
+		"year": "1983",
+		"number": "15",
+		"title": "She Works Hard for the Money",
+		"artist": "Donna Summer"
+	},
+	{
+		"year": "1983",
+		"number": "16",
+		"title": "Never Gonna Let You Go (Sérgio Mendes song)",
+		"artist": "Sérgio Mendes"
+	},
+	{
+		"year": "1983",
+		"number": "17",
+		"title": "Hungry Like the Wolf",
+		"artist": "Duran Duran"
+	},
+	{
+		"year": "1983",
+		"number": "18",
+		"title": "Let's Dance (David Bowie song)",
+		"artist": "David Bowie"
+	},
+	{
+		"year": "1983",
+		"number": "19",
+		"title": "Twilight Zone (Golden Earring song)",
+		"artist": "Golden Earring"
+	},
+	{
+		"year": "1983",
+		"number": "20",
+		"title": "I Know There's Something Going On",
+		"artist": "Anni-Frid Lyngstad"
+	},
+	{
+		"year": "1983",
+		"number": "21",
+		"title": "Jeopardy (song)",
+		"artist": "The Greg Kihn Band"
+	},
+	{
+		"year": "1983",
+		"number": "22",
+		"title": "Electric Avenue (song)",
+		"artist": "Eddy Grant"
+	},
+	{
+		"year": "1983",
+		"number": "23",
+		"title": "She Blinded Me with Science",
+		"artist": "Thomas Dolby"
+	},
+	{
+		"year": "1983",
+		"number": "24",
+		"title": "Africa (Toto song)",
+		"artist": "Toto (band)"
+	},
+	{
+		"year": "1983",
+		"number": "25",
+		"title": "Little Red Corvette",
+		"artist": "Prince (musician)"
+	},
+	{
+		"year": "1983",
+		"number": "26",
+		"title": "Back on the Chain Gang",
+		"artist": "The Pretenders"
+	},
+	{
+		"year": "1983",
+		"number": "27",
+		"title": "Up Where We Belong",
+		"artist": "Joe Cocker",
+		"featuring": "Jennifer Warnes"
+	},
+	{
+		"year": "1983",
+		"number": "28",
+		"title": "Mr. Roboto",
+		"artist": "Styx (band)"
+	},
+	{
+		"year": "1983",
+		"number": "29",
+		"title": "You Are (Lionel Richie song)",
+		"artist": "Lionel Richie"
+	},
+	{
+		"year": "1983",
+		"number": "30",
+		"title": "Der Kommissar (song)",
+		"artist": "After the Fire"
+	},
+	{
+		"year": "1983",
+		"number": "31",
+		"title": "Puttin' on the Ritz",
+		"artist": "Taco (musician)"
+	},
+	{
+		"year": "1983",
+		"number": "32",
+		"title": "Sexual Healing",
+		"artist": "Marvin Gaye"
+	},
+	{
+		"year": "1983",
+		"number": "33",
+		"title": "(Keep Feeling) Fascination",
+		"artist": "The Human League"
+	},
+	{
+		"year": "1983",
+		"number": "34",
+		"title": "Time (Clock of the Heart)",
+		"artist": "Culture Club"
+	},
+	{
+		"year": "1983",
+		"number": "35",
+		"title": "The Safety Dance",
+		"artist": "Men Without Hats"
+	},
+	{
+		"year": "1983",
+		"number": "36",
+		"title": "Mickey (song)",
+		"artist": "Toni Basil"
+	},
+	{
+		"year": "1983",
+		"number": "37",
+		"title": "You Can't Hurry Love",
+		"artist": "Phil Collins"
+	},
+	{
+		"year": "1983",
+		"number": "38",
+		"title": "Separate Ways (Worlds Apart)",
+		"artist": "Journey (band)"
+	},
+	{
+		"year": "1983",
+		"number": "39",
+		"title": "One on One (song)",
+		"artist": "Hall & Oates"
+	},
+	{
+		"year": "1983",
+		"number": "40",
+		"title": "We've Got Tonight",
+		"artist": "Kenny Rogers",
+		"featuring": "Sheena Easton"
+	},
+	{
+		"year": "1983",
+		"number": "41",
+		"title": "1999 (song)",
+		"artist": "Prince (musician)"
+	},
+	{
+		"year": "1983",
+		"number": "42",
+		"title": "Stray Cat Strut",
+		"artist": "Stray Cats"
+	},
+	{
+		"year": "1983",
+		"number": "43",
+		"title": "Allentown (song)",
+		"artist": "Billy Joel"
+	},
+	{
+		"year": "1983",
+		"number": "44",
+		"title": "Stand Back",
+		"artist": "Stevie Nicks"
+	},
+	{
+		"year": "1983",
+		"number": "45",
+		"title": "Tell Her About It",
+		"artist": "Billy Joel"
+	},
+	{
+		"year": "1983",
+		"number": "46",
+		"title": "(There's) Always Something There to Remind Me",
+		"artist": "Naked Eyes"
+	},
+	{
+		"year": "1983",
+		"number": "47",
+		"title": "Truly (song)",
+		"artist": "Lionel Richie"
+	},
+	{
+		"year": "1983",
+		"number": "48",
+		"title": "Dirty Laundry (Don Henley song)",
+		"artist": "Don Henley"
+	},
+	{
+		"year": "1983",
+		"number": "49",
+		"title": "The Girl Is Mine",
+		"artist": "Michael Jackson",
+		"featuring": "Paul McCartney"
+	},
+	{
+		"year": "1983",
+		"number": "50",
+		"title": "Too Shy",
+		"artist": "Kajagoogoo"
+	},
+	{
+		"year": "1983",
+		"number": "51",
+		"title": "Goody Two-Shoes (song)",
+		"artist": "Adam Ant"
+	},
+	{
+		"year": "1983",
+		"number": "52",
+		"title": "Rock the Casbah",
+		"artist": "The Clash"
+	},
+	{
+		"year": "1983",
+		"number": "53",
+		"title": "Our House (Madness song)",
+		"artist": "Madness (band)"
+	},
+	{
+		"year": "1983",
+		"number": "54",
+		"title": "Overkill (Men at Work song)",
+		"artist": "Men at Work"
+	},
+	{
+		"year": "1983",
+		"number": "55",
+		"title": "Is There Something I Should Know?",
+		"artist": "Duran Duran"
+	},
+	{
+		"year": "1983",
+		"number": "56",
+		"title": "Gloria (Umberto Tozzi song)",
+		"artist": "Laura Branigan"
+	},
+	{
+		"year": "1983",
+		"number": "57",
+		"title": "Affair of the Heart",
+		"artist": "Rick Springfield"
+	},
+	{
+		"year": "1983",
+		"number": "58",
+		"title": "She's a Beauty",
+		"artist": "The Tubes"
+	},
+	{
+		"year": "1983",
+		"number": "59",
+		"title": "Solitaire (Laura Branigan song)",
+		"artist": "Laura Branigan"
+	},
+	{
+		"year": "1983",
+		"number": "60",
+		"title": "Don't Let It End",
+		"artist": "Styx (band)"
+	},
+	{
+		"year": "1983",
+		"number": "61",
+		"title": "How Am I Supposed to Live Without You",
+		"artist": "Laura Branigan"
+	},
+	{
+		"year": "1983",
+		"number": "62",
+		"title": "China Girl (song)",
+		"artist": "David Bowie"
+	},
+	{
+		"year": "1983",
+		"number": "63",
+		"title": "Come Dancing (song)",
+		"artist": "The Kinks"
+	},
+	{
+		"year": "1983",
+		"number": "64",
+		"title": "Promises, Promises (Naked Eyes song)",
+		"artist": "Naked Eyes"
+	},
+	{
+		"year": "1983",
+		"number": "65",
+		"artist": "Little River Band"
+	},
+	{
+		"year": "1983",
+		"number": "66",
+		"title": "Making Love Out of Nothing at All",
+		"artist": "Air Supply"
+	},
+	{
+		"year": "1983",
+		"number": "67",
+		"title": "Family Man (Mike Oldfield song)",
+		"artist": "Hall & Oates"
+	},
+	{
+		"year": "1983",
+		"number": "68",
+		"title": "Wanna Be Startin' Somethin'",
+		"artist": "Michael Jackson"
+	},
+	{
+		"year": "1983",
+		"number": "69",
+		"title": "I Won't Hold You Back",
+		"artist": "Toto (band)"
+	},
+	{
+		"year": "1983",
+		"number": "70",
+		"title": "All Right",
+		"artist": "Christopher Cross"
+	},
+	{
+		"year": "1983",
+		"number": "71",
+		"title": "Straight from the Heart (song)",
+		"artist": "Bryan Adams"
+	},
+	{
+		"year": "1983",
+		"number": "72",
+		"title": "Heart to Heart (Kenny Loggins song)",
+		"artist": "Kenny Loggins"
+	},
+	{
+		"year": "1983",
+		"number": "73",
+		"title": "My Love (Lionel Richie song)",
+		"artist": "Lionel Richie"
+	},
+	{
+		"year": "1983",
+		"number": "74",
+		"title": "I'm Still Standing",
+		"artist": "Elton John"
+	},
+	{
+		"year": "1983",
+		"number": "75",
+		"title": "Hot Girls in Love",
+		"artist": "Loverboy"
+	},
+	{
+		"year": "1983",
+		"number": "76",
+		"title": "It's a Mistake",
+		"artist": "Men at Work"
+	},
+	{
+		"year": "1983",
+		"number": "77",
+		"title": "I'll Tumble 4 Ya",
+		"artist": "Culture Club"
+	},
+	{
+		"year": "1983",
+		"number": "78",
+		"title": "All This Love (song)",
+		"artist": "DeBarge"
+	},
+	{
+		"year": "1983",
+		"number": "79",
+		"title": "Your Love Is Driving Me Crazy",
+		"artist": "Sammy Hagar"
+	},
+	{
+		"year": "1983",
+		"number": "80",
+		"title": "Heartbreaker (Dionne Warwick song)",
+		"artist": "Dionne Warwick"
+	},
+	{
+		"year": "1983",
+		"number": "81",
+		"title": "Faithfully (song)",
+		"artist": "Journey (band)"
+	},
+	{
+		"year": "1983",
+		"number": "82",
+		"title": "Steppin' Out (Joe Jackson song)",
+		"artist": "Joe Jackson (musician)"
+	},
+	{
+		"year": "1983",
+		"number": "83",
+		"artist": "Quarterflash"
+	},
+	{
+		"year": "1983",
+		"number": "84",
+		"title": "(She's) Sexy + 17",
+		"artist": "Stray Cats"
+	},
+	{
+		"year": "1983",
+		"number": "85",
+		"title": "Try Again (Champaign song)",
+		"artist": "Champaign (band)"
+	},
+	{
+		"year": "1983",
+		"number": "86",
+		"artist": "Shalamar"
+	},
+	{
+		"year": "1983",
+		"number": "87",
+		"title": "Lawyers in Love (song)",
+		"artist": "Jackson Browne"
+	},
+	{
+		"year": "1983",
+		"number": "88",
+		"title": "What About Me (song)",
+		"artist": "Moving Pictures (band)"
+	},
+	{
+		"year": "1983",
+		"number": "89",
+		"title": "Human Nature (Michael Jackson song)",
+		"artist": "Michael Jackson"
+	},
+	{
+		"year": "1983",
+		"number": "90",
+		"title": "Photograph (Def Leppard song)",
+		"artist": "Def Leppard"
+	},
+	{
+		"year": "1983",
+		"number": "91",
+		"title": "Pass the Dutchie",
+		"artist": "Musical Youth"
+	},
+	{
+		"year": "1983",
+		"number": "92",
+		"title": "True (Spandau Ballet song)",
+		"artist": "Spandau Ballet"
+	},
+	{
+		"year": "1983",
+		"number": "93",
+		"title": "Far from Over (Frank Stallone song)",
+		"artist": "Frank Stallone"
+	},
+	{
+		"year": "1983",
+		"number": "94",
+		"title": "I've Got a Rock 'n' Roll Heart",
+		"artist": "Eric Clapton"
+	},
+	{
+		"year": "1983",
+		"number": "95",
+		"title": "It Might Be You",
+		"artist": "Stephen Bishop (musician)"
+	},
+	{
+		"year": "1983",
+		"number": "96",
+		"title": "Tonight, I Celebrate My Love",
+		"artist": "Peabo Bryson",
+		"featuring": "Roberta Flack"
+	},
+	{
+		"year": "1983",
+		"number": "97",
+		"title": "You Got Lucky",
+		"artist": "Tom Petty and the Heartbreakers"
+	},
+	{
+		"year": "1983",
+		"number": "98",
+		"title": "Don't Cry (Asia song)",
+		"artist": "Asia (band)"
+	},
+	{
+		"year": "1983",
+		"number": "99",
+		"artist": "Joe Jackson (musician)"
+	},
+	{
+		"year": "1983",
+		"number": "100",
+		"title": "Fall in Love with Me",
+		"artist": "Earth, Wind & Fire"
+	}
+]

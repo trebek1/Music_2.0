@@ -1,7 +1,7 @@
 var Xray = require('x-ray');
 var xray = new Xray(); 
 var fs = require('fs'); 
-var year = '2001';
+var year = '2014';
 
 xray('https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_' + year, 'tr',
 
