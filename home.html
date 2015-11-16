@@ -21,10 +21,11 @@
         <div ng-repeat="hit in data track by $index">
           <li ng-show="{{hit.year}} === {{year}}">
             <ul>
-              <button onclick="playSong">
-                <li>hit.title {{hit.title}}</li>
-                <li>hit.artist {{hit.artist}}</li>
-              </button>
+              
+                <li>Title {{hit.title}}</li>
+                <li>Artist {{hit.artist}}</li>
+                <li>Chart Number {{hit.number}}</li>
+              
             </ul> 
             <br/>
           </li>

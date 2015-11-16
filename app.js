@@ -29,32 +29,46 @@ years:  ['1999']
 }
 return o; 
 
+}])
+
+.factory('NewFactory', ['$http',function($http){
+	// example https://www.googleapis.com/youtube/v3/videos?id=7lCDEYXw3mM&key=YOUR_API_KEY
+	var domain = 'https://www.googleapis.com/youtube/v3/search?part=snippet&q=';
+	var query = 'breathe+faith+hill';
+	var token = '&key=AIzaSyCyaXDHzfz0nLHIaXlaBGhJO1E_UQH1qyA'; 
+	var url = domain + query + token; 
+	
+	var p = {
+		query: function(){
+			return $http.get(url);
+		}
+	};
+	return p; 
 }]); 
 
-// app.factory('request', ['$scope', '$http',function($scope,$http){
-// 	// example https://www.googleapis.com/youtube/v3/videos?id=7lCDEYXw3mM&key=YOUR_API_KEY
-// 	var domain = 'https://www.googleapis.com/youtube/v3/videos?id=';
-// 	var query = '7lCDEYXw3mM';
-// 	var token = '&key=AIzaSyCyaXDHzfz0nLHIaXlaBGhJO1E_UQH1qyA'; 
-// 	var url = domain + query + token 
-// 	var o = {
-// 		query: $http.get(url).success(function(response){
-// 			$scope.example = response; 
-// 			console.log("This is response ", response);
-// 		})
-// 	}
-// 	return o; 
-// }]); 
-
 app.controller('FirstCtrl', [
+'$http',
 '$scope',
 'years',
 '$firebaseObject',
 '$stateParams',
-function($scope, years, $firebaseObject, $stateParams){
+function($http, $scope, years, $firebaseObject, $stateParams){
+
+	var domain = 'https://www.googleapis.com/youtube/v3/search?part=snippet&q=';
+	var query = 'breathe+faith+hill';
+	var token = '&key=AIzaSyCyaXDHzfz0nLHIaXlaBGhJO1E_UQH1qyA'; 
+	var url = domain + query + token; 
+
+	$http.get(url).success(function(response){
+		console.log("this is the response ", response.items[0].id.videoId); 
+	}); 
+
+
+
+
 
 var ref = new Firebase("https://musicapp11.firebaseio.com/");
-  
+   
   $scope.test = 'Music App';
   $scope.years = years.years;
   $scope.data = $firebaseObject(ref);
